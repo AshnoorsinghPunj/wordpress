@@ -2,11 +2,9 @@
 
 Arshnoor Shop - WordPress and WooCommerce E-commerce Website (https://arshnoor.shop/)
 
-Welcome to Arshnoor Shop, your premier destination for all your shopping needs! Our website is powered by WordPress and enhanced with WooCommerce, providing an intuitive and secure platform for your online shopping experience.
+Welcome to Arshnoor Shop, The website is powered by WordPress and enhanced with WooCommerce, providing an intuitive and secure platform for your online shopping experience.
 
-## Getting Started
-
-To understand and contribute to our website, here's an overview of key processes and elements:
+To understand here's an overview of key processes and elements:
 
 1. WordPress
 
